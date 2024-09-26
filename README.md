@@ -1,4 +1,4 @@
-# awesome-openai-o1-related
+# Awesome OpenAI o1 related Papers, Projects
 跟 OpenAI o1 相关的论文、文章等信息的索引页
 
 ## Dataset
