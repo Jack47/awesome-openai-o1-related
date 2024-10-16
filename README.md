@@ -7,6 +7,7 @@
 ## Dataset
 MuSR: Testing the Limits of Chain-of-Thought with MultiStep Soft Reasoning. 上榜理由：作者发现 MuSR 这个数据集上，o1 的表现并不如 Claude-3.5 Sonnet CoT 好。
 [peiyi9979/Math-Shepherd](https://huggingface.co/datasets/peiyi9979/Math-Shepherd?row=98): 训 Math-Shepher 里 PRM 的数据集
+[PRM800K: A Process Supervision Dataset](https://github.com/openai/prm800k): Let's Verify Step by Step 里的数据集
 ## 源码
 [rStar: Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://github.com/zhentingqi/rStar)
 [Train PRM with hard estimation in OpenRLHF](https://github.com/OpenRLHF/OpenRLHF/pull/442): 算是实现框架来做 Math-Shepher 的复现
