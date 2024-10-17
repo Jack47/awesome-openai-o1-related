@@ -12,6 +12,7 @@ MuSR: Testing the Limits of Chain-of-Thought with MultiStep Soft Reasoning. 上�
 [rStar: Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://github.com/zhentingqi/rStar)
 [Train PRM with hard estimation in OpenRLHF](https://github.com/OpenRLHF/OpenRLHF/pull/442): 算是实现框架来做 Math-Shepher 的复现
 [Open O1: A Model Matching Proprietary Power with Open-Source Innovation](https://github.com/OpenSource-O1/Open-O1)
+[LLM Reasoners](https://github.com/maitrix-org/llm-reasoners): 有可视化方案和 notebook 可以一步步看它的例子
 
 ## 其他类似的聚合资源：
 1. [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry). 上榜理由: 作者是 OpenRLHF 作者
